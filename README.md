@@ -77,9 +77,26 @@ This indicates that early-stage engagement is weak and user churn occurs quickly
 
 ##  Business Implications
 
-- Improve **view → cart conversion**
-- Optimize **product page experience**
-- Strengthen **early user engagement and retention**
+The analysis identifies key drop-off points and user behavior patterns across the funnel and retention stages.
+
+- Significant drop between view and cart  
+- Product views strongly influence purchase decisions  
+- Low retention after initial engagement  
+
+These findings indicate that early-stage user experience plays a critical role in both conversion and retention.
+
+---
+
+### Action Plan
+
+- **A/B Test Recommendation**  
+  Test different product page layouts and CTA placements to improve view → cart conversion.
+
+- **KPI Definition**  
+  Track key metrics such as view-to-cart conversion rate and first-week retention rate.
+
+- **Expected Impact**  
+  Improving early-stage conversion and retention can increase overall purchase conversion and user lifetime value (LTV).
 
 ---
 
