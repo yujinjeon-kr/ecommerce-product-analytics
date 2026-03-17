@@ -1,3 +1,11 @@
+-- Purpose:
+-- Measure weekly retention by cohort based on first interaction date.
+
+-- Business Question:
+-- How quickly do users churn after their initial engagement?
+
+-- Output:
+-- Weekly retention matrix by cohort
 
 WITH base AS (
     SELECT
