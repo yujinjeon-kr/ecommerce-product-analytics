@@ -93,7 +93,7 @@
 ## 6. Key Findings
 
 ### 1) Largest drop-off occurs between view and cart
-![Funnel Chart](outputs/funnel_chart.png)
+![Funnel Chart](outputs/funnel_conversion_by_stage.png)
 퍼널 분석 결과, 가장 큰 이탈은 `view → cart` 구간에서 발생했습니다.
 
 - 사용자는 상품을 조회하지만 장바구니에 담기까지 충분히 이어지지 않았습니다.
@@ -105,7 +105,7 @@
 ---
 
 ### 2) Product view plays a dominant role before purchase
-![Journey Chart](outputs/pre_purchase_chart.png)
+![Journey Chart](outputs/pre_purchase_behavior_composition.png)
 구매 이전 행동 흐름을 보면 `view` 비중이 가장 높았고, 일부 사용자는 짧은 상호작용 이후 구매로 이어졌습니다.
 
 **해석**  
@@ -114,7 +114,7 @@
 ---
 
 ### 3) Retention drops sharply after week 1
-![Cohort Heatmap](outputs/weekly_cohort_chart.png)
+![Cohort Heatmap](outputs/weekly_cohort_retention_heatmap.png)
 코호트 리텐션 분석 결과, 대부분 코호트에서 1주차 이후 잔존율이 빠르게 하락했습니다.
 
 **해석**  
