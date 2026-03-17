@@ -111,7 +111,7 @@ These findings indicate that early-stage user experience plays a critical role i
 ##  Project Structure
 ecommerce-product-analytics/  
 │  
-├── ecommerce_user_behavior_analysis.ipynb  
+├── ecommerce_product_analytics.ipynb 
 ├── sql/  
 │ ├── funnel_analysis.sql  
 │ ├── pre_purchase_analysis.sql  
