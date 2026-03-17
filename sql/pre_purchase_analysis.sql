@@ -1,3 +1,12 @@
+-- Purpose:
+-- Analyze which user actions most frequently occur before purchase.
+
+-- Business Question:
+-- What behavior patterns are associated with purchase conversion?
+
+-- Output:
+-- Distribution of event types observed before purchase
+
 
 WITH purchase_events AS (
     SELECT
