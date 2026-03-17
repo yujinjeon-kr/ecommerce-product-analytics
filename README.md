@@ -198,6 +198,8 @@ ecommerce-product-analytics/
 │
 └── README.md
 
+---
+
 ## 12. Key Takeaways
 
 본 프로젝트를 통해 다음과 같은 Product Analytics 역량을 검증하였다.
