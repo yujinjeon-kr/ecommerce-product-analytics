@@ -7,6 +7,7 @@
 -- Output:
 -- Weekly retention matrix by cohort
 
+
 WITH base AS (
     SELECT
         user_id,
