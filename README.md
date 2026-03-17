@@ -2,7 +2,7 @@
 
 # E-commerce User Behavior Analysis  
 ### SQL-based Funnel, User Journey, and Cohort Retention Analysis
-![Funnel](outputs/funnel_chart.png)
+
 ---
 
 ##  Project Overview
