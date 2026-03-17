@@ -1,7 +1,7 @@
 > SQL 기반으로 사용자 행동을 분석하고, 전환 구조와 리텐션 문제를 데이터로 설명한 프로젝트입니다.
 
-# E-commerce User Behavior Analysis  
-### SQL-based Funnel, User Journey, and Cohort Retention Analysis
+# E-commerce Product Analytics  
+### Funnel, User Journey, and Cohort Retention (SQL-Based)
 
 ---
 
