@@ -51,7 +51,7 @@ However, once users reach the cart stage, conversion to purchase is relatively h
 
 ##  Pre-purchase Behavior Analysis
 
-![Journey Chart](outputs/journey_chart.png)
+![Journey Chart](outputs/pre_purchase_chart.png)
 
 ### Insight
 
@@ -63,7 +63,7 @@ This suggests that many users convert after a short interaction flow or repeated
 
 ##  Weekly Cohort Retention
 
-![Cohort Heatmap](outputs/cohort_heatmap.png)
+![Cohort Heatmap](outputs/weekly_cohort_chart.png)
 
 ### Insight
 
