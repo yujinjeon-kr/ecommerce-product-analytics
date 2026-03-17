@@ -197,6 +197,7 @@ ecommerce-product-analytics/
 │   └── weekly_cohort_chart.png
 │
 └── README.md
+```
 
 ---
 
