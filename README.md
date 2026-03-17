@@ -90,20 +90,20 @@ This indicates that early-stage engagement is weak and user churn occurs quickly
 ---
 
 ##  Project Structure
-ecommerce-product-analytics/
-│
-├── ecommerce_user_behavior_analysis.ipynb
-├── sql/
-│ ├── funnel_analysis.sql
-│ ├── pre_purchase_analysis.sql
-│ └── cohort_retention.sql
-│
-├── outputs/
-│ ├── funnel_chart.png
-│ ├── journey_chart.png
-│ └── cohort_heatmap.png
-│
-└── README.md
+ecommerce-product-analytics/  
+│  
+├── ecommerce_user_behavior_analysis.ipynb  
+├── sql/  
+│ ├── funnel_analysis.sql  
+│ ├── pre_purchase_analysis.sql  
+│ └── cohort_retention.sql  
+│  
+├── outputs/  
+│ ├── funnel_chart.png  
+│ ├── journey_chart.png  
+│ └── cohort_heatmap.png  
+│  
+└── README.md  
 
 ---
 
