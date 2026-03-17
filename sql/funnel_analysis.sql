@@ -1,3 +1,13 @@
+-- Purpose:
+-- Measure conversion across the core user funnel (view → cart → purchase)
+-- to identify the largest drop-off point.
+
+-- Business Question:
+-- At which stage do users leave the funnel most frequently?
+
+-- Output:
+-- Conversion counts and rates for each funnel step
+
 
 WITH base AS (
     SELECT
