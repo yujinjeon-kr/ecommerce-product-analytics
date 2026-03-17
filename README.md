@@ -19,8 +19,10 @@ The goal is to identify drop-off points and understand how user behavior leads t
 ---
 
 ##  Dataset
+> Dataset sourced from Kaggle and processed for scalable SQL-based analysis.
 
 - Source: E-commerce event log data (Kaggle)
+- Link: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 - Events: `view`, `cart`, `purchase`
 - Data size: ~67M rows (sampled for analysis)
 
